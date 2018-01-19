@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Veros - Maintenance Page</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="bootstrap.min.css">
+    <style type="text/css">
+        .product .img-responsive {
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div style="text-align: center; padding-top: 200px; align-content: center">
+            <div style="text-align: center; color: #0077c8; font-size: 54px; font-weight: 400">We are currently improving our system for you!</div>
+            <br />
+            <br />
+            <div style="color: #292726; text-decoration: none;font-size: 20px;">
+                We apologize for the inconvenience. Please check back soon.<br />
+                If you need assistance. Please contact us: <b><a style="color: #292726; text-decoration: none;" href="mailto:support@veros.com?Subject=Veros Support Request">support@veros.com </a></b>or toll-free 1.866.458.3767, option 3.
+            </div>
+            <br />
+            <br />
+            <div class="product img-responsive">
+                <img class="img-responsive"  src="Veros-Maintenance-Image-med.jpg" width="950" />
+            </div>
+        </div>
+    </form>
+</body>
+</html>
